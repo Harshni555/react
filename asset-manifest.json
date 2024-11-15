@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.fdfb2e10.css",
+    "main.js": "/react/static/js/main.36cf3888.js",
+    "static/js/453.ed3810f9.chunk.js": "/react/static/js/453.ed3810f9.chunk.js",
+    "static/media/aboutIcon.jpg": "/react/static/media/aboutIcon.d3e3c3236de7944b16dc.jpg",
+    "static/media/heroImg.jpg": "/react/static/media/heroImg.145e4611ae3084c1d7cc.jpg",
+    "static/media/yogaa.png": "/react/static/media/yogaa.a8e37783730144c08153.png",
+    "static/media/materialui.png": "/react/static/media/materialui.ec9a2464156a595cae04.png",
+    "static/media/bootstrap.png": "/react/static/media/bootstrap.925543f56001d5122a9f.png",
+    "static/media/backend.png": "/react/static/media/backend.74da98c067353836c837.png",
+    "static/media/ui.png": "/react/static/media/ui.aa1319fcc1d1ca8b047f.png",
+    "static/media/express.png": "/react/static/media/express.b6d5a6ad8d05069e839e.png",
+    "static/media/front.png": "/react/static/media/front.4a65b1c3a8a2b94b3524.png",
+    "static/media/wineee.png": "/react/static/media/wineee.800ca58d9eda2402cb70.png",
+    "index.html": "/react/index.html",
+    "main.fdfb2e10.css.map": "/react/static/css/main.fdfb2e10.css.map",
+    "main.36cf3888.js.map": "/react/static/js/main.36cf3888.js.map",
+    "453.ed3810f9.chunk.js.map": "/react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdfb2e10.css",
+    "static/js/main.36cf3888.js"
+  ]
+}
